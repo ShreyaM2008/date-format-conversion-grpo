@@ -19,5 +19,5 @@ source .venv/bin/activate
 python scripts/train.py \
     --data data/dates.csv \
     --output outputs/date-grpo \
-    --steps 100
+    --steps 100 --model Qwen/Qwen2.5-0.5B-Instruct
 

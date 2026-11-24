@@ -1,0 +1,314 @@
+{
+  "model": "Qwen/Qwen2.5-0.5B-Instruct",
+  "examples": 51,
+  "average_reward": 0.7921568627450981,
+  "exact_match_accuracy": 0.7450980392156863,
+  "details": [
+    {
+      "prompt": "04/17/77",
+      "expected": "1977-04-17",
+      "predicted": "1977-04-17",
+      "reward": 1.0
+    },
+    {
+      "prompt": "12-21-1975",
+      "expected": "1975-12-21",
+      "predicted": "1975-12-21",
+      "reward": 1.0
+    },
+    {
+      "prompt": "January 24, 1983",
+      "expected": "1983-01-24",
+      "predicted": "1983-01-24",
+      "reward": 1.0
+    },
+    {
+      "prompt": "13 Feb 1979",
+      "expected": "1979-02-13",
+      "predicted": "1979-02-13",
+      "reward": 1.0
+    },
+    {
+      "prompt": "October 8, 1965",
+      "expected": "1965-10-08",
+      "predicted": "1965-10-08",
+      "reward": 1.0
+    },
+    {
+      "prompt": "11/28/02",
+      "expected": "2002-11-28",
+      "predicted": "2002-11-28",
+      "reward": 1.0
+    },
+    {
+      "prompt": "14 Oct 1963",
+      "expected": "1963-10-14",
+      "predicted": "1963-10-14",
+      "reward": 1.0
+    },
+    {
+      "prompt": "May 2, 1974",
+      "expected": "1974-05-02",
+      "predicted": "1974-05-02",
+      "reward": 1.0
+    },
+    {
+      "prompt": "3 Jul 1996",
+      "expected": "1996-07-03",
+      "predicted": "1996-07-03",
+      "reward": 1.0
+    },
+    {
+      "prompt": "05/07/88",
+      "expected": "1988-05-07",
+      "predicted": "1988-05-07",
+      "reward": 1.0
+    },
+    {
+      "prompt": "02/10/34",
+      "expected": "2034-02-10",
+      "predicted": "1934-02-10",
+      "reward": 0.4
+    },
+    {
+      "prompt": "2/27/92",
+      "expected": "1992-02-27",
+      "predicted": "02/27/92",
+      "reward": 0.0
+    },
+    {
+      "prompt": "02/15/48",
+      "expected": "2048-02-15",
+      "predicted": "02/15/48",
+      "reward": 0.0
+    },
+    {
+      "prompt": "3/27/42",
+      "expected": "2042-03-27",
+      "predicted": "03/27/42",
+      "reward": 0.0
+    },
+    {
+      "prompt": "09/01/29",
+      "expected": "2029-09-01",
+      "predicted": "2023-09-01",
+      "reward": 0.4
+    },
+    {
+      "prompt": "2/10/52",
+      "expected": "1952-02-10",
+      "predicted": "08/10/52",
+      "reward": 0.0
+    },
+    {
+      "prompt": "4 Apr 1982",
+      "expected": "1982-04-04",
+      "predicted": "1982-04-04",
+      "reward": 1.0
+    },
+    {
+      "prompt": "10/26/27",
+      "expected": "2027-10-26",
+      "predicted": "2023-10-26",
+      "reward": 0.4
+    },
+    {
+      "prompt": "11/08/59",
+      "expected": "1959-11-08",
+      "predicted": "1959-11-08",
+      "reward": 1.0
+    },
+    {
+      "prompt": "September 18, 1984",
+      "expected": "1984-09-18",
+      "predicted": "1984-09-18",
+      "reward": 1.0
+    },
+    {
+      "prompt": "9/15/34",
+      "expected": "2034-09-15",
+      "predicted": "1934-09-15",
+      "reward": 0.4
+    },
+    {
+      "prompt": "3 Oct 1954",
+      "expected": "1954-10-03",
+      "predicted": "1954-10-03",
+      "reward": 1.0
+    },
+    {
+      "prompt": "12/14/91",
+      "expected": "1991-12-14",
+      "predicted": "1991-12-14",
+      "reward": 1.0
+    },
+    {
+      "prompt": "December 28, 1987",
+      "expected": "1987-12-28",
+      "predicted": "1987-12-28",
+      "reward": 1.0
+    },
+    {
+      "prompt": "June 30, 2021",
+      "expected": "2021-06-30",
+      "predicted": "2021-06-30",
+      "reward": 1.0
+    },
+    {
+      "prompt": "08-30-2031",
+      "expected": "2031-08-30",
+      "predicted": "2031-08-30",
+      "reward": 1.0
+    },
+    {
+      "prompt": "1/26/52",
+      "expected": "1952-01-26",
+      "predicted": "08/27/1952",
+      "reward": 0.0
+    },
+    {
+      "prompt": "31 Jan 2042",
+      "expected": "2042-01-31",
+      "predicted": "2042-01-31",
+      "reward": 1.0
+    },
+    {
+      "prompt": "May 30, 2039",
+      "expected": "2039-05-30",
+      "predicted": "2039-05-30",
+      "reward": 1.0
+    },
+    {
+      "prompt": "December 21, 1968",
+      "expected": "1968-12-21",
+      "predicted": "1968-12-21",
+      "reward": 1.0
+    },
+    {
+      "prompt": "05/02/35",
+      "expected": "2035-05-02",
+      "predicted": "1935-05-02",
+      "reward": 0.4
+    },
+    {
+      "prompt": "October 2, 1985",
+      "expected": "1985-10-02",
+      "predicted": "1985-10-02",
+      "reward": 1.0
+    },
+    {
+      "prompt": "10-26-2038",
+      "expected": "2038-10-26",
+      "predicted": "2038-10-26",
+      "reward": 1.0
+    },
+    {
+      "prompt": "April 19, 1995",
+      "expected": "1995-04-19",
+      "predicted": "1995-04-19",
+      "reward": 1.0
+    },
+    {
+      "prompt": "29 Aug 2045",
+      "expected": "2045-08-29",
+      "predicted": "2045-08-29",
+      "reward": 1.0
+    },
+    {
+      "prompt": "06/15/97",
+      "expected": "1997-06-15",
+      "predicted": "1997-06-15",
+      "reward": 1.0
+    },
+    {
+      "prompt": "08/01/80",
+      "expected": "1980-08-01",
+      "predicted": "08/01/80",
+      "reward": 0.0
+    },
+    {
+      "prompt": "03-11-1959",
+      "expected": "1959-03-11",
+      "predicted": "1959-11-03",
+      "reward": 0.2
+    },
+    {
+      "prompt": "11/17/09",
+      "expected": "2009-11-17",
+      "predicted": "2009-11-17",
+      "reward": 1.0
+    },
+    {
+      "prompt": "October 2, 1993",
+      "expected": "1993-10-02",
+      "predicted": "1993-10-02",
+      "reward": 1.0
+    },
+    {
+      "prompt": "November 13, 1981",
+      "expected": "1981-11-13",
+      "predicted": "1981-11-13",
+      "reward": 1.0
+    },
+    {
+      "prompt": "05-16-1956",
+      "expected": "1956-05-16",
+      "predicted": "1956-05-16",
+      "reward": 1.0
+    },
+    {
+      "prompt": "03-07-1996",
+      "expected": "1996-03-07",
+      "predicted": "1996-07-03",
+      "reward": 0.2
+    },
+    {
+      "prompt": "05-23-2048",
+      "expected": "2048-05-23",
+      "predicted": "2048-05-23",
+      "reward": 1.0
+    },
+    {
+      "prompt": "08/29/17",
+      "expected": "2017-08-29",
+      "predicted": "2017-08-29",
+      "reward": 1.0
+    },
+    {
+      "prompt": "15 Sep 1957",
+      "expected": "1957-09-15",
+      "predicted": "1957-09-15",
+      "reward": 1.0
+    },
+    {
+      "prompt": "17 Nov 1968",
+      "expected": "1968-11-17",
+      "predicted": "1968-11-17",
+      "reward": 1.0
+    },
+    {
+      "prompt": "November 27, 1988",
+      "expected": "1988-11-27",
+      "predicted": "1988-11-27",
+      "reward": 1.0
+    },
+    {
+      "prompt": "10/25/93",
+      "expected": "1993-10-25",
+      "predicted": "1993-10-25",
+      "reward": 1.0
+    },
+    {
+      "prompt": "03-22-2005",
+      "expected": "2005-03-22",
+      "predicted": "2005-03-22",
+      "reward": 1.0
+    },
+    {
+      "prompt": "October 10, 1960",
+      "expected": "1960-10-10",
+      "predicted": "1960-10-10",
+      "reward": 1.0
+    }
+  ]
+}
